@@ -1,0 +1,6 @@
+# ignoring some basic binary files
+*.o
+*.out
+
+# ignoring the Builds directory to avoid different build binaries from bieng synced
+Builds/*
