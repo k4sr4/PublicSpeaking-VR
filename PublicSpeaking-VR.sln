@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{A93A0D42-68FF-9449-E531-3296ABEFB25E}") = "PublicSpeaking-VR", "Assembly-CSharp-firstpass.csproj", "{C56570F8-3E47-BC0A-A688-7CCE63C8354F}"
+EndProject
+Project("{A93A0D42-68FF-9449-E531-3296ABEFB25E}") = "PublicSpeaking-VR", "Assembly-CSharp.csproj", "{DF1C8664-2487-0584-41AF-5478B753541A}"
+EndProject
+Project("{A93A0D42-68FF-9449-E531-3296ABEFB25E}") = "PublicSpeaking-VR", "Assembly-CSharp-Editor.csproj", "{2C4260F0-30C3-2B39-2498-AF59B6D08E73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C56570F8-3E47-BC0A-A688-7CCE63C8354F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C56570F8-3E47-BC0A-A688-7CCE63C8354F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C56570F8-3E47-BC0A-A688-7CCE63C8354F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C56570F8-3E47-BC0A-A688-7CCE63C8354F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF1C8664-2487-0584-41AF-5478B753541A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF1C8664-2487-0584-41AF-5478B753541A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF1C8664-2487-0584-41AF-5478B753541A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF1C8664-2487-0584-41AF-5478B753541A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C4260F0-30C3-2B39-2498-AF59B6D08E73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C4260F0-30C3-2B39-2498-AF59B6D08E73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C4260F0-30C3-2B39-2498-AF59B6D08E73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C4260F0-30C3-2B39-2498-AF59B6D08E73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
